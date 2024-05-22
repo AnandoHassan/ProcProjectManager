@@ -1,5 +1,5 @@
 # ProcProjectManager
-ProcProjectManager is a project management system built with procedural PHP, HTML, CSS, and MySQL. Admins can create projects and tasks, assign tasks to employees, and track progress. Employees can update task statuses to "Incomplete," "Ongoing," or "Complete," with progress visible to admins.
+ProcProjectManager is a robust Project Management System developed using procedural programming principles. This system is designed to streamline project planning, task allocation, and progress tracking, ensuring efficient collaboration and timely project completion.
 
 Key Features:
 Admin Control: Only admins can create projects and tasks.
